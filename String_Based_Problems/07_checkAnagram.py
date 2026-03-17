@@ -1,3 +1,7 @@
+# Example:
+# word1 = Listen    word2 = silent
+# All the characters of word1 are present in word2. Ignore the positioning order.
+
 s1 = input()
 s2 = input()
 

@@ -1,3 +1,6 @@
+# Example:
+# Input: sandipan
+# output: sandip    a and n will not come second time.
 string = input()
 
 uniq = ""

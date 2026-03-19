@@ -2,7 +2,7 @@
 # 1^4 + 6^4 + 3^4 + 4^4 = 1234 the same number came, Armstrong number
 # --------------------------------------------------
 # no = 163
-# 1^4 + 6^4 + 3^4 = 1378 the same number not came, not an Armstrong number
+# 1^3 + 6^3 + 3^3 = 1378 the same number not came, not an Armstrong number
 
 no=int(input("Enter the number to check armstrong or not: "))
 t1 = no
